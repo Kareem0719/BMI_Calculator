@@ -4,7 +4,7 @@ The calculator is designed to provide a simple yet effective tool for monitoring
 It offers an intuitive command-line interface, making it easy for users to input their measurements and receive an instant BMI calculation.
 
 # Features
-Calculates BMI using height in meters and weight in kilograms
-Simple and intuitive command-line interface
-Clear output indicating BMI and corresponding weight category
-Lightweight and easy to integrate into other projects
+--> Calculates BMI using height in meters and weight in kilograms
+--> Simple and intuitive command-line interface
+--> Clear output indicating BMI and corresponding weight category
+--> Lightweight and easy to integrate into other projects
